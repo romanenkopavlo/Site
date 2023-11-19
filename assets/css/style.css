@@ -1396,3 +1396,9 @@ section {
     margin: -20px 0 30px 0;
   }
 }
+
+.member-img img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
